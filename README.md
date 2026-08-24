@@ -1,3 +1,5 @@
+# SRIM to ROOT Converter and Analysis Tool
+
 ## 1. Directory Contents
 
 ### Input data files (SRIM/TRIM)
