@@ -1,7 +1,3 @@
-# CTNP Project 1
-
-**Marek Perliński**
-
 ## 1. Directory Contents
 
 ### Input data files (SRIM/TRIM)
