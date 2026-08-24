@@ -1,6 +1,6 @@
 # SRIM to ROOT Converter and Analysis Tool
 
-## 1. Directory Contents
+## Directory Contents
 
 ### Input data files (SRIM/TRIM)
 
@@ -13,7 +13,7 @@
 - `converter.C` — Reads the input text files and creates ROOT `TTree` objects.
 - `analysis.C` — Performs the analysis, Gaussian fitting, plotting, and output of numerical results.
 
-## 2. Running the Project
+## Running the Project
 
 ### Step 1: Convert the input data
 
@@ -44,7 +44,7 @@ For each scenario, the following quantities are printed to the terminal:
 - Energy dispersion
 - Y-position dispersion
 
-## 3. Physical Conclusions
+## Physical Conclusions
 
 The analysis of a 40K beam with an initial energy of 15.2 GeV passing through the target and backing system showed:
 
